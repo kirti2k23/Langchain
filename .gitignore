@@ -146,6 +146,7 @@ venv.bak/
 genai/
 
 
+
 # Spyder project settings
 .spyderproject
 .spyproject
