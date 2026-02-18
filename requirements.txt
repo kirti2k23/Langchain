@@ -16,3 +16,5 @@ wikipedia
 groq
 beautifulsoup4
 langchain-groq
+sentence_transformer
+langchain_huggingface
